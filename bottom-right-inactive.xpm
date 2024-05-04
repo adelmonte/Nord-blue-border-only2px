@@ -1,0 +1,9 @@
+/* XPM */
+static char * bottom_right_inactive = {
+"2 2 3 1",
+"=	c #4c566a",
+"#	c #4c566a",
+"%	c #4c566a",
+"#%",
+"==",
+};

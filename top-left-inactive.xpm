@@ -1,0 +1,9 @@
+/* XPM */
+static char * top_left_inactive = {
+"2 2 3 1",
+"+	c #4c566a",
+"%	c #4c566a",
+"#	c #4c566a",
+"++",
+"%#",
+};
